@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+    margin: auto;
+    width: 50%;
+}
+h2{
+    background-color: whitesmoke;
+    border: black;
+}
+form {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+p{
+    text-align: center;
+}
